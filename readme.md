@@ -1,4 +1,4 @@
-# yanyuakina.github.io 
+# gordenghost.github.io
 
 ![logo](.vitepress/theme/assets/icon/footLogo.svg)
 
